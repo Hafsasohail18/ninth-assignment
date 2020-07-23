@@ -1,0 +1,41 @@
+
+
+
+.container {
+    text-align: center;
+}
+
+.close:hover,.close:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}
+.close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #0f0909;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+   
+  }
+  .modal-content {
+    background-color: #fefefeab;
+    margin: auto;
+    padding: 20px;
+    width: 80%;
+  }
+ .button {
+   font-size: 20px;
+   font-weight: bold;
+   background-color: wheat;
+   margin-top: 20px;
+ }
+ .input {
+   font-size: 20px;
+ }
+ .counter {
+   text-align: center;
+ }
+  
